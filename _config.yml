@@ -1,0 +1,11 @@
+# Site settings
+title: "Guardian Properties"
+description: "We'll take it from here. Sell your home in Colorado, Pittsburgh, or Kansas City, Flip your home, or rent from us."
+
+url: "http://www.guardianproperties.co"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
